@@ -1,0 +1,68 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family:serif
+}
+
+h1{
+    font-family: cursive;
+    font-size: 4.375em;
+    margin-top: 10px;
+    color: #66BFBF
+    }
+h3{
+    color: #11999E
+}
+a{
+    color: #11999E
+}
+
+.b-cloud{
+    position: absolute;
+    bottom: 400px;
+    left: 300px
+}
+.t-cloud{
+    position:relative;
+    left: 300px;
+    top: 60px;
+}
+.top-container{
+    background-color: aliceblue;
+    padding: 20px
+}
+.middle-container{
+    padding: 20x;
+    text-align: center
+}
+.bottom-container{
+    background-color: #66BFBF
+}
+
+.skill-row{
+    width: 50%; 
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2
+}
+.s{
+    width: 30%;
+    float: left;
+    margin-right: 30px
+}
+.s1{
+    width: 30%;
+    float: right;
+    margin-left: 30px
+}
+.s2{
+    width: 30%;
+    float: left;
+    margin-right: 30px
+}
+.btn{
+    display: block
+}
+.prof{
+      border-radius: 50%;
+}
