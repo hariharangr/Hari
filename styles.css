@@ -18,7 +18,8 @@ a{
 }
 
 .b-cloud{
-    position: absolute;
+    position: relative;
+    bottom :400px;
     left: 300px
 }
 .t-cloud{
